@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  text-align: center;
+}
+
+.subTitle {
+  font-weight: bold;
+}
+
+.content {
+  margin: 20px;
+}
+
+.productImage {
+  width: 200px;
+}
+
+.productCard {
+  width: fit-content;
+  display: inline-block;
+  margin: 10px;
+}
